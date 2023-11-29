@@ -12,3 +12,7 @@ pip install numpy pandas matplotlib streamlit
 streamlit run dashboard.py
 ```
 
+## Link Deploy Streamlit
+```
+https://fathih-dashboard.streamlit.app/
+```
